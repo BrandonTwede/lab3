@@ -7,6 +7,7 @@ h1 {
     background-color:lightblue;
     padding:20px 10px;
     border-radius:5px;
+    border:1px solid black;
 }
 
 .Avatar {
